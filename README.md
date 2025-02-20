@@ -29,4 +29,5 @@ Created Calculated Measure
 - Add Bar chart, Pie chart, Column chart, Cards, Matrix chart, TreeMap to anlayse Attrition rate different Department wise, Education field wise,salaryslab wise and (Age and Gender wise).
 
 ## Screenshot
-![image](https://github.com/Eden-Eda/HR-Analytics-Dashboard/assets/143804244/49288973-2c29-4092-89a2-8eefce0bd0a5)
+![image](https://github.com/user-attachments/assets/d7459e9b-653c-4a6d-840d-56d2610ce3a5)
+
